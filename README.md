@@ -13,4 +13,8 @@ Completed Tasks:
 - Task 5: Security Tools & Career Overview
 
 Description:
-This repository contains internship tasks completed during the Cyber Security Internship at Jayvik Labs.
+This repository contains all internship tasks completed during my Cyber Security Internship at Jayvik Labs.
+
+The tasks cover cyber security basics, phishing awareness, password protection, and security tools.
+
+All work is created for learning and educational purposes.
