@@ -8,6 +8,9 @@ Duration: 2 Months
 
 Completed Tasks:
 Task 1 – Cyber Security Basics
+Task 2 - Phishing awareness report 
+Task 3 - Password Security 
+Task 5 - Security Tools Career
 
 Description:
 This repository contains internship tasks completed during the Cyber Security Internship at Jayvik Labs.
